@@ -26,4 +26,6 @@ Para poder llevar a cabo todo esto ponemos en marcha una serie de servidores den
   ◦DNS
   
 Esta web es responsive, puede verse en distintos dispositivos sea cual sea la resolución o tamaño de su pantalla.
-Cristina Luengo García
+
+
+WEBMASTER: Cristina Luengo García
