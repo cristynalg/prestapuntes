@@ -1,7 +1,7 @@
 # prestapuntes
 This is the repository of code from my website: Prestapuntes. 
 
-Prestapuntes is my student project that includes HTML, CSS, Javascript, PHP and HTTP, PHP, MySQL, FTP and DNS servers.
+Prestapuntes is my student project that includes a website written with HTML 5, CSS3 , Javascript and PHP. To make the website I used HTTP, PHP, MySQL, FTP and DNS servers.
 
 In spanish:
 
